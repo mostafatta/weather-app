@@ -1,5 +1,5 @@
 import React from 'react';
-import Wheater from 'C://projects//weather-app//weather-app//src//compontests//Wheater.jsx'
+import Wheater from './compontests/wheater';
 
 const App = () => {
   return (
